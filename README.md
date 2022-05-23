@@ -1,2 +1,2 @@
-# ctf
-CTF Solution Writeups
+# CTF Solution Writeups
+
