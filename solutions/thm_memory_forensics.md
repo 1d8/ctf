@@ -14,7 +14,7 @@ In our second task, we're given `Snapshot6.vmem` and asked to find John's passwo
 
 The first step from all these tasks that I took is identifying the correct memory profile to use with volatility which can be done via:
 
-`vol.py -f <memory dump file path> imageinfo`
+* `vol.py -f <memory dump file path> imageinfo`
 
 which outputs:
 
