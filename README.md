@@ -6,3 +6,4 @@
 * [Blue Team Labs Online Memory Analysis Ransomware](https://github.com/1d8/ctf/blob/main/solutions/btlo_memory_analysis_ransomware.md)
 * [Let's Defend REvil Ransomware](https://github.com/1d8/ctf/blob/main/solutions/letsdefend_revil_ransomware.md)
 * [Let's Defend Ransomware Attack](https://github.com/1d8/ctf/blob/main/solutions/letsdefend_ransomware_attack.md)
+* [Let's Defend Port Scan Activity](https://github.com/1d8/ctf/blob/main/solutions/letsdefend_port_scan_activity.md)
