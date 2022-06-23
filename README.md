@@ -10,3 +10,4 @@
 * [Let's Defend IcedID Malware Family](https://github.com/1d8/ctf/blob/main/solutions/letsdefend_icedID_malware_family.md)
 * [CyberDefender's Seized](https://github.com/1d8/ctf/blob/main/solutions/cyberdefenders_seized.md)
 * [CyberDefender's L'espion](https://github.com/1d8/ctf/blob/main/solutions/cyberdefenders_l_espion.md)
+* [CyberDefender's Insider](https://github.com/1d8/ctf/blob/main/solutions/cyberdefenders_insider.md)
