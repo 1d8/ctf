@@ -27,7 +27,7 @@ There's several *normal* looking processes running, but there are also a few tha
 * `@WanaDecryptor` - PID: 3968
 * `or4qtckT.exe` - PID: 2732
 
-The PID of `@WanaDecryptor` is 2732 and its *Parent Process ID (PPID)* is 2732, meaning `or4qtckT.exe` started `@WanaDecryptor`, but the PPID of `or4qtckT.exe` is 1456 which belongs to `explorer.exe`, this is likely because whoever ran the `or4qtckT.exe` executable double-clicked it from Windows File Explorer.
+The PID of `@WanaDecryptor` is 3968 and its *Parent Process ID (PPID)* is 2732, meaning `or4qtckT.exe` started `@WanaDecryptor`, but the PPID of `or4qtckT.exe` is 1456 which belongs to `explorer.exe`, this is likely because whoever ran the `or4qtckT.exe` executable double-clicked it from Windows File Explorer.
 
 Here is a better visualization of this which was outputted by using the `pstree` plugin:
 
