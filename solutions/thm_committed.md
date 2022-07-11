@@ -1,4 +1,4 @@
-# Committed - https://tryhackme.com/room/committed
+# TryHackMe's Committed - https://tryhackme.com/room/committed
 
 For this challenge, we're given an Ubuntu machine and told that sensitive data, aka our flag, has been committed to a Github repository, but it is unknown where the exact file location that the data was committed to. Our task is to find this sensitive data using `git`!
 
