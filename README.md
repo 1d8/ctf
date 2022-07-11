@@ -14,3 +14,4 @@
 * [TryHackMe Sakura](https://github.com/1d8/ctf/blob/main/solutions/thm_sakura.md)
 * [TryHackMe REvil Corp](https://github.com/1d8/ctf/blob/main/solutions/thm_REvil_corp.md)
 * [TryHackMe Committed](https://github.com/1d8/ctf/blob/main/solutions/thm_committed.md)
+* [TryHackMe Mr. Phisher](https://github.com/1d8/ctf/blob/main/solutions/thm_mr_phisher.md)
