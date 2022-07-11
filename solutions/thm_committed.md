@@ -1,6 +1,6 @@
 # Committed - https://tryhackme.com/room/committed
 
-For this challenge, we're given an Ubuntu machine and told that sensitive data, aka our flag, has been committed to a Github repository, but it is unknown where it was committed to. Our task is to find this sensitive data using `git`!
+For this challenge, we're given an Ubuntu machine and told that sensitive data, aka our flag, has been committed to a Github repository, but it is unknown where the exact file location that the data was committed to. Our task is to find this sensitive data using `git`!
 
 With `git`, every commit is logged and gets a commit ID which is a long hash-like string. We can view a summary of the commit history by running `git log`:
 
