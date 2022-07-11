@@ -1,4 +1,4 @@
-# REvil Corp - https://tryhackme.com/room/revilcorp
+# TryHackMe's REvil Corp - https://tryhackme.com/room/revilcorp
 
 **Q: What is the compromised employee's full name?**
 
