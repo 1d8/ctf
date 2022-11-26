@@ -15,4 +15,6 @@
 * [TryHackMe REvil Corp](https://github.com/1d8/ctf/blob/main/solutions/thm_REvil_corp.md)
 * [TryHackMe Committed](https://github.com/1d8/ctf/blob/main/solutions/thm_committed.md)
 * [TryHackMe Mr. Phisher](https://github.com/1d8/ctf/blob/main/solutions/thm_mr_phisher.md)
+* [TryHackMe Epoch](https://github.com/1d8/ctf/blob/main/solutions/thm_epoch.md)
+* [TryHackMe Neighbor](https://github.com/1d8/ctf/blob/main/solutions/thm_neighbor.md)
 * [CyberDefender's Grab The Phisher](https://github.com/1d8/ctf/blob/main/solutions/cyberdefenders_grabthephisher.md)
