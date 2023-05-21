@@ -8,6 +8,7 @@
 * [Let's Defend Ransomware Attack](https://github.com/1d8/ctf/blob/main/solutions/letsdefend_ransomware_attack.md)
 * [Let's Defend Port Scan Activity](https://github.com/1d8/ctf/blob/main/solutions/letsdefend_port_scan_activity.md)
 * [Let's Defend IcedID Malware Family](https://github.com/1d8/ctf/blob/main/solutions/letsdefend_icedID_malware_family.md)
+* [Let's Defend Suspicious Browser Extension](https://github.com/1d8/ctf/blob/main/solutions/letsdefend_suspiciousbrowserextension.md)
 * [CyberDefender's Seized](https://github.com/1d8/ctf/blob/main/solutions/cyberdefenders_seized.md)
 * [CyberDefender's L'espion](https://github.com/1d8/ctf/blob/main/solutions/cyberdefenders_l_espion.md)
 * [CyberDefender's Insider](https://github.com/1d8/ctf/blob/main/solutions/cyberdefenders_insider.md)
